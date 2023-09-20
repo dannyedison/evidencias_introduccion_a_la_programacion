@@ -16,7 +16,7 @@ Escribir una tabla HTML con 10 filas que muestre información sobre productos re
 * Stock
 * Fecha de creación
 
-En el siguiente ejercicio, se utilisa la combinación de celdas en la tabla, encabezados y etiquetas.
+En el siguiente ejercicio, se utiliza la combinación de celdas en la tabla, encabezados y etiquetas.
 
 ``` html
 <!DOCTYPE html>
@@ -199,8 +199,19 @@ En el siguiente ejercicio, se utilisa la combinación de celdas en la tabla, enc
         </section>
 
     </main>
+    <br>
+    <br>
+    <br>
     <footer>
-
+        <strong>DANNY EDISON IDARRAGA</strong> <br> <br>
+        INTRODUCCIÓN A LA PROGRAMACIÓN <br>
+        JUEVES EN LA NOCHE
+        <br>
+        <br>
+        <p>CESDE</p>
+        <br>
+        <br>
+        &copy;2023
     </footer>
 </body>
 
