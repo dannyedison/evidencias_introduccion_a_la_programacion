@@ -17,12 +17,7 @@ Crea un repositorio Git en GitHub y clonalo en tu computadora local. Luego, crea
 
 https://github.com/dannyedison/evidencias_introduccion_a_la_programacion.git
 
-``` copy
+```bach copy
 https://github.com/dannyedison/evidencias_introduccion_a_la_programacion.git
 ```
-
-
-
-
-
 
