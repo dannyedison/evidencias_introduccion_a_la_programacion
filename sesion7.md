@@ -15,11 +15,11 @@ Crea un repositorio Git en GitHub y clonalo en tu computadora local. Luego, crea
 * Crea un proyecto web de diseño libre.
 * Documentar el repositorio en el archivo README.md
 
-```bash copy
+https://github.com/dannyedison/evidencias_introduccion_a_la_programacion.git
+
+``` copy
 https://github.com/dannyedison/evidencias_introduccion_a_la_programacion.git
 ```
-
-[Link] (https://github.com/dannyedison/evidencias_introduccion_a_la_programacion.git)
 
 
 
