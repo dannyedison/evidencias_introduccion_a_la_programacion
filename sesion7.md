@@ -15,9 +15,17 @@ Crea un repositorio Git en GitHub y clonalo en tu computadora local. Luego, crea
 * Crea un proyecto web de diseño libre.
 * Documentar el repositorio en el archivo README.md
 
+
+### Repositorio
 [https://github.com/dannyedison/evidencias_introduccion_a_la_programacion.git](https://github.com/dannyedison/evidencias_introduccion_a_la_programacion.git)
 
 ```
 https://github.com/dannyedison/evidencias_introduccion_a_la_programacion.git
 ```
 
+### Pagina Web
+[https://dannyedison.github.io/Actividad7/](https://dannyedison.github.io/Actividad7/)
+
+```
+https://dannyedison.github.io/Actividad7/
+```
