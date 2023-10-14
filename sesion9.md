@@ -46,7 +46,7 @@ Crea un nuevo archivo HTML y CSS.
     border: 10px solid blue;
     padding: 20px;
     margin: 10px;
-    width: 25%px;
+    width: 25px;
     height: 50%;
     background-color: blueviolet;
   }
