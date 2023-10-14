@@ -33,7 +33,7 @@ Crea un nuevo archivo HTML y CSS.
 
 ### style.css
 
-```html
+```css
 .contenedor {
     
     width: 200px;
